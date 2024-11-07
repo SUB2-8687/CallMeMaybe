@@ -1,1 +1,35 @@
+"CMM.Settings" = "%@ 설정";
 
+"Confirmation.Header" = "확인 요구";
+"Favorites" = "즐겨찾기 연락처";
+"RecentCalls" = "최근 통화";
+"Confirmation.Footer" = "해당 탭에서 연락처를 클릭하면 전화를 걸기 전에 확인 창이 표시됩니다.";
+
+"Recents.Header" = "최근 통화 설정";
+"NoTelCalls" = "전화통화 제외";
+"NoTelCallsDesc" = "최근 통화 목록에서 모든 전화통화를 제외합니다.";
+"NoAppCalls" = "앱 통화 제외";
+"NoAppCallsDesc" = "서드파티 앱(WhatsApp, Telegram 등)을 통해 이루어진 모든 통화를 최근 통화 목록에서 제거합니다.";
+"NoFTCalls" = "FaceTime 통화 제외";
+"NoFTCallsDesc" = "최근 통화 목록에서 모든 FaceTime 통화를 제거합니다.";
+"Recents.Footer" = "최소한 하나의 옵션은 비활성화 상태로 유지해야 합니다. 변경사항은 앱을 다시 시작한 후에 적용됩니다.";
+
+"Tabs.Header" = "탭 설정";
+"HideFavsTab" = "즐겨찾기 탭 숨기기";
+"HideRecentsTab" = "최근 통화 탭 숨기기";
+"HideContactsTab" = "연락처 탭 숨기기";
+"HideKeypadTab" = "키패드 탭 숨기기";
+"HideVoicemailTab" = "음성 사서함 탭 숨기기";
+
+
+"ResetSettings" = "기본값으로 설정 재설정";
+
+"FollowMe" = "Twitter 팔로우";
+"Github" = "프로젝트 소스 코드";
+"Patreon" = "Patreon에서 팔로우";
+"Coffee" = "기부하기";
+
+"CallConfirm" = "%@에게 전화하겠습니까?";
+"Hint" = "힌트: %@";
+"Warning" = "경고";
+"Error.OneTab" = "적어도 하나의 탭은 활성화된 상태로 유지되어야 합니다.";
